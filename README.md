@@ -48,8 +48,9 @@ Canshare: Cancer Donation and Consultation merupakan sebuah platform yang mewada
     * Memposting cerita
       * ![RPL-act-bercerita](https://user-images.githubusercontent.com/78951884/121376326-a1502580-c96b-11eb-921d-875019acf7ba.png)
     * Mengajukan donasi
-      * ![RPL-act-berdonasi](https://user-images.githubusercontent.com/78951884/121376754-f8ee9100-c96b-11eb-89e2-f05b8972cf5c.png)
+      * 
     * Melakukan donasi
+      * ![RPL-act-berdonasi](https://user-images.githubusercontent.com/78951884/121376754-f8ee9100-c96b-11eb-89e2-f05b8972cf5c.png)
     * Melakukan konsultasi
       * ![RPL-act-konsultasi](https://user-images.githubusercontent.com/78951884/121378303-47505f80-c96d-11eb-97e1-7c1cf3ea3942.png)
   * Class diagram
