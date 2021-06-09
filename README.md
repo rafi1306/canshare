@@ -58,7 +58,33 @@ Canshare: Cancer Donation and Consultation merupakan sebuah platform yang mewada
   * Entity Relationship Diagram
     * ![canshare-ERD](https://user-images.githubusercontent.com/78951884/121046736-44743400-c7e0-11eb-8ad2-ef940497be4c.png)
   * Arsitektur sistem
+    * 1. MySQL (Database)
+      Ringkasan: Untuk mengelola data, kami memutuskan untuk menggunakan mySQL.
+      Masalah: Data yang digunakan kemungkinan akan sangat banyak dikarenakan fitur cerita yang dapat digunakan oleh pengguna (penderita kanker) sehingga terjadi update terus menerus. Oleh karena itu dibutuhkan penyimpanan yang memadai dan sistem data yang terstruktur agar tidak terjadi error ataupun overload.
+      Batasan: Fasilitas pemrograman tidak lengkap seperti looping atau percabangan, namun fitur-fitur lain yang dimiliki cukup untuk pengembangan software kami.
+      Opsi: Beberapa pilihan aplikasi pengelola data base yang pernah kami gunakan adalah MySQL dan MongoDB, akan tetapi MongoDB ketika dipasangkan PHP (salah satu bahasa pemrograman yang kami gunakan) harus merestart server meskipun dalam penggunaannya lebih mudah karena tidak membutuhkan relasi atau skema untuk setiap tabel. MySQL lebih kompatibel dengan bahasa PHP, tidak rumit, serta mendukung record dengan panjang tetap atau bervariasi.
+      Rasional: kami memilih MySQL karena pengalaman yang dimiliki dalam menggunakannya serta fitur yang memadai dan sesuai kebutuhan pengembangan.
+    * 2. Visual Studio Code (Text Editor)
+      Ringkasan: Untuk text editor, kami memutuskan untuk menggunakan Visual Studio Code.
+      Masalah: Aplikasi berbasis website membutuhkan desain yang menarik terutama dalam hal warna. Visual Studio Code memfasilitasi user untuk menambahkan warna latar dan dapat menampilkan kotak color picker sehingga dapat mengubah warna sesuai dengan apa yang diinginkan. Namun, Visual Studio Code tidak terlalu responsif dalam menjalankan command. Sehingga membutuhkan waktu yang cukup lama untuk menjalankan fitur-fitur yang tersedia.
+      Batasan: Untuk proyek kali ini hanya dalam bentuk website saja. Visual Studio Code memiliki performa yang belum cukup baik dibandingkan text editor yang lain. Selain itu, Visual Studio Code juga memiliki shortcut key yang berbeda yaitu menggunakan ALT bukan CTRL.
+      Opsi: Beberapa opsi untuk text editor adalah Visual Studio Code dan Sublime Text. Kedua opsi ini memiliki kelebihan dan kekurangannya masing-masing. Visual Studio Code memiliki banyak ekstensi yang memudahkan developer untuk men-develop aplikasi.
+      Rasional: Karena visual studio code merupakan aplikasi yang gratis dan banyak memiliki ekstensi jadi kami memutuskan untuk menggunakannya.
+     * 3. HTML, CSS, PHP, JavaScript (Bahasa pemrograman)
+       Ringkasan: Untuk membuat aplikasi web Canshare, kami memutuskan untuk menggunakan bahasa pemrograman HTML, CSS, PHP, dan JavaScript.
+       Masalah: Pembuatan aplikasi web Canshare yang menggunakan HTML, CSS, PHP, dan Javascript membutuhkan waktu yang tidak sedikit untuk menguasai bahasa pemrograman tersebut, karena sebelumnya belum pernah mempelajarinya sebab dalam mata kuliah hanya mempelajari bahasa python. Namun masih terdapat waktu untuk mempelajari bahasa pemrograman tersebut hingga batas waktu pembuatan aplikasi Canshare.
+       Batasan: HTML, CSS, PHP, dan Javascript merupakan pemrograman dasar untuk pembuatan aplikasi web yang saling berhubungan dan merupakan satu kesatuan, sehingga jika salah satu mengalami permasalahan, maka aplikasi web Canshare akan bermasalah.
+       Opsi: Python, karena phyton mudah digunakan, dinamis dan semua anggota tim pernah mempelajarinya. Meskipun lebih dikenal sebagai bahasa program back-end, python juga bisa diterapkan pada front-end. Namun phyton tidak secepat dan seefektif bahasa program lainnya dalam hal statis.
+       Rasional: HTML, CSS, PHP, dan Javascript dipilih karena lebih memungkinkan untuk digunakan dan juga merupakan bahasa pemrograman yang lebih umum dan sering digunakan oleh pengembang dan pembuat aplikasi web, sehingga banyak komunitas yang bisa membantu ketika terjadi permasalahan.
+
   * Fungsi utama yang dikembangkan
+    * Donasi
+      Pengguna memungkinkan untuk berdonasi yang ditujukan kepada penderita kanker.
+    * Konsultasi dokter
+      Pengguna dapat berkonsultasi kepada dokter tentang masalah kesehatan terutama penyakit kanker, baik pasien maupun non-pasien.
+    * Berbagi cerita
+      Pengguna yang memiliki pengalaman dan telah bertahan hidup melawan kanker dapat menceritakannya lalu membagikannya ke khalayak umum.
+
   * Fungsi CRUD
 
 - Hasil implementasi
