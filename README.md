@@ -5,8 +5,8 @@
   * Kelompok : 8 
   * Paralel : Kelas P4
   * Nama Asisten Praktikum :
-    1.
-    2.
+    1. Indah Puspita
+    2. Qoriatul Khairunnisa
 
 - Nama Anggota:
 1. I Ketut Gede Arta Putra (G24180034) as Designer UI/UX
