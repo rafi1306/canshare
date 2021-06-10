@@ -58,7 +58,7 @@ Canshare: Cancer Donation and Consultation merupakan sebuah platform yang mewada
   * Entity Relationship Diagram
     * ![canshare-ERD](https://user-images.githubusercontent.com/78951884/121046736-44743400-c7e0-11eb-8ad2-ef940497be4c.png)
   * Arsitektur sistem
-    * 1. MySQL (Database)
+     * 1. MySQL (Database)
         -  Ringkasan: Untuk mengelola data, kami memutuskan untuk menggunakan mySQL.
         -  Masalah: Data yang digunakan kemungkinan akan sangat banyak dikarenakan fitur cerita yang dapat digunakan oleh pengguna (penderita kanker) sehingga terjadi update terus menerus. Oleh karena itu dibutuhkan penyimpanan yang memadai dan sistem data yang terstruktur agar tidak terjadi error ataupun overload.
         -  Batasan: Fasilitas pemrograman tidak lengkap seperti looping atau percabangan, namun fitur-fitur lain yang dimiliki cukup untuk pengembangan software kami.
@@ -93,8 +93,7 @@ Canshare: Cancer Donation and Consultation merupakan sebuah platform yang mewada
 - Link aplikasi (jika sudah di deploy)
 
 - Testing (Test cases)
-  * Positive Cases
-  * Negative Cases (Optional, jika ada jadi nilai tambah)
+  * ![WhatsApp Image 2021-06-11 at 6 46 17 AM](https://user-images.githubusercontent.com/78951884/121610859-29741f00-ca81-11eb-9af7-83cd226e94c3.jpeg) 
 
 - Saran untuk pengembangan selanjutnya
    * Pokok ide sebaiknya dimatangkan lebih cepat di awal
