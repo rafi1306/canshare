@@ -3,10 +3,11 @@
 - Nama sistem, Paralel, Kelompok, Nama Asisten Praktikum
   * Nama Sistem : Canshare (Cancer Donation dan Consultation) 
   * Kelompok : 8 
-  * Paralel : Kelas P4
+  * Paralel : Kelas P3
   * Nama Asisten Praktikum :
-    * Indah Puspita
-    * Qoriatul Khairunnisa
+    * Qorry Atul Chairunnisa (G64170014)
+    * Indah Puspita (G64170035)
+    
 
 - Nama Anggota:
 1. I Ketut Gede Arta Putra (G24180034) as Designer UI/UX
@@ -32,7 +33,7 @@ Canshare: Cancer Donation and Consultation merupakan sebuah platform yang mewada
     * Graphics Card : DirectX 12 dengan VRAM 2GB GDDR5
     * RAM : 8 GB
   * Perangkat Lunak
-    * Framework : Laravel, Vue Js, dan Bootstrap 4
+    * Framework : PHP, Tailwind CSS
     * Database : MySQL
     * Server : Apache
     * Text Editor/IDE : Visual Studio Code
