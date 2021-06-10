@@ -86,7 +86,7 @@ Canshare: Cancer Donation and Consultation merupakan sebuah platform yang mewada
       - Pengguna yang memiliki pengalaman dan telah bertahan hidup melawan kanker dapat menceritakannya lalu membagikannya ke khalayak umum.
 
   * Fungsi CRUD
-    * 
+    * ![WhatsApp Image 2021-06-11 at 12 36 53 AM](https://user-images.githubusercontent.com/78951884/121610196-aa321b80-ca7f-11eb-942a-558cc9c30bcd.jpeg)
 
 - Hasil implementasi
 
