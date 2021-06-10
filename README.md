@@ -40,7 +40,6 @@ Canshare: Cancer Donation and Consultation merupakan sebuah platform yang mewada
   * Lainnya
     * Version Control dan Collaboration Platform : Github
     * Teknologi : HTML, CSS, Javascript, dan PHP
-  * Tech Stack
 
 - Hasil dan pembahasan
   * Use case diagram
