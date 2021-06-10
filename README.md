@@ -5,8 +5,8 @@
   * Kelompok : 8 
   * Paralel : Kelas P4
   * Nama Asisten Praktikum :
-    1. Indah Puspita
-    2. Qoriatul Khairunnisa
+    * Indah Puspita
+    * Qoriatul Khairunnisa
 
 - Nama Anggota:
 1. I Ketut Gede Arta Putra (G24180034) as Designer UI/UX
@@ -98,8 +98,8 @@ Canshare: Cancer Donation and Consultation merupakan sebuah platform yang mewada
   * Negative Cases (Optional, jika ada jadi nilai tambah)
 
 - Saran untuk pengembangan selanjutnya
-   1. Pokok ide sebaiknya dimatangkan lebih cepat di awal
-   2. Membuat fitur ajukan donasi yang lebih terpusat dalam web
-   3. Mengembangkan fitur agar dapat melakukan konsultasi langsung dalam web
-   4. Memperbaiki manajemen dalam implementasi
+   * Pokok ide sebaiknya dimatangkan lebih cepat di awal
+   * Membuat fitur ajukan donasi yang lebih terpusat dalam web
+   * Mengembangkan fitur agar dapat melakukan konsultasi langsung dalam web
+   * Memperbaiki manajemen dalam implementasi
 
